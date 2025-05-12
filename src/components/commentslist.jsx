@@ -1,0 +1,1 @@
+// Eliminado el archivo completo porque ya no es necesario.
